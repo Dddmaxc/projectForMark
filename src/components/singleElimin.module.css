@@ -1,0 +1,14 @@
+.container {
+	/* border: 1px solid rgb(51, 0, 255); */
+	margin: 50px 0 0 600px;
+	width: 50%;
+	font-size: 18px;
+}
+
+.oneSquare {
+	width: 20%;
+	height: 30px;
+	border: 1px solid rgb(255, 255, 255);
+	background: #000;
+	color: #fff;
+}

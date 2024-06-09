@@ -1,0 +1,22 @@
+.container {
+	display: flex;
+	margin-left: 50px;
+}
+
+.input {
+	width: 20%;
+	height: 30px;
+}
+
+.containerError {
+	text-align: start;
+	margin-left: 50px;
+	color: red;
+}
+
+.error {
+	text-align: start;
+	border: 2px solid red;
+	width: 20%;
+	height: 30px;
+}

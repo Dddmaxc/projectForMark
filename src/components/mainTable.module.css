@@ -1,0 +1,25 @@
+.container {
+	display: flex;
+	flex-direction: column;
+	width: 30%;
+	height: 40px;
+	margin-top: 50px;
+	margin-left: 50px;
+}
+.containerTeam {
+	border: 1px solid #333;
+}
+.btnTeam {
+	margin: 5px;
+	background: #ff0000;
+}
+.btnTeam:hover {
+	background: #e45454;
+}
+.btnTeamPlus {
+	margin: 5px;
+	background: #00ffff;
+}
+.btnTeamPlus:hover {
+	background: #d0fdff;
+}
